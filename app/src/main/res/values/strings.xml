@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">ARMapbox</string>
-    <string name="access_token" translatable="false">sk.eyJ1IjoiZ2lycmFqMTQ1ODEiLCJhIjoiY2pzamI1cmMxMHBoNjQ0bjUyc2hoMjhwNyJ9.570Y92AzuY0Da41IV3bdCQ</string>
+    <string name="access_token" translatable="false">API_KEY</string>
     <string name="user_location_permission_explanation">This app needs location permissions in order to show its functionality.</string>
     <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
 
